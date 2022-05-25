@@ -1,0 +1,29 @@
+.top-container {
+  text-align: center;
+  height: 100px;
+  width: 100%;
+  
+}
+.middle-container {
+  height: 300px;
+  width: 30%;
+  background-color: blue;
+}
+.bottom-container {
+  height: 300px;
+  width: 30%;
+  background-color: red;
+}
+.name {
+  font-family: 'Fasthand', cursive;
+  color: #4ca17c;
+}
+.bio {
+
+color: #4ca17c ;
+  opacity: 50%;
+}
+
+body{ 
+  background-color: #d7fcea;
+}
